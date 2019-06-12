@@ -7,8 +7,11 @@ You can name your application anything you like but it's important to grant the 
 Once your application is created, copy the client key, client secret and access token and add it to the botkiller.py file. Be sure to enter your own instance URL too.
 
 To run, just type:
+
 python botkiller.py
+
 OR
+
 python3 botkiller.py
 
 Remember to double check your block lists after running this operation! 
